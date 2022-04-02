@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="name_txv_title">Conversor de Moedas</string>
+    <string name="btn_converter">Converter</string>
+    <string name="edt_value">valor</string>
+    <string name="tx_from">De</string>
+    <string name="tx_to">Para</string>
+</resources>
